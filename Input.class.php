@@ -10,7 +10,7 @@ private $stdin;
 	public function read(){
 		//fscanf($this->stdin, "%d", $n);
 		$n = fgets($this->stdin);
-		return $n;
+		return $n; 
 	}
 	
 	public function read_line($ile_liczb){
