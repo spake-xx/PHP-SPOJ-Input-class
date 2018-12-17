@@ -20,6 +20,10 @@ private $stdin;
 
 		return $tab;
 	}
+
+
+
+	;Kuba też jest fajny
 	
 }
 
